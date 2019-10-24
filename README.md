@@ -1,6 +1,6 @@
-# Solarwinds MSP Technical Exercise - ChessProject
+# SolarWinds MSP Technical Exercise - ChessProject
 
-Welcome to the technical exercise used to assess candidates for Developer roles at Solarwinds MSP.
+Welcome to the technical exercise used to assess candidates for Developer roles at SolarWinds MSP.
 
 You can carry out this exercise in your own time, in your IDE of choice.
 
