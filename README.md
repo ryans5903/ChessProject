@@ -11,7 +11,7 @@ Some of the things we think are important:
 * Design patterns
 * Refactoring
 
-__STEPS__  
+## STEPS  
 1. Fork the repository into your own github account   
 2. Choose which language you are most comfortable completing this in - you have a choice of PHP, Java, C#  
 3. Read the documentation for the project and follow the instructions  
