@@ -1,8 +1,6 @@
-**IMPORTANT:** This repository has been deprecated and archived. Please use the one hosted [here](https://github.com/solarwinds/ChessProject).
+# N-able Technical Exercise - ChessProject
 
-# Solarwinds MSP Technical Exercise - ChessProject
-
-Welcome to the technical exercise used to assess candidates for Developer roles at Solarwinds MSP.
+Welcome to the technical exercise used to assess candidates for Developer roles at N-able.
 
 You can carry out this exercise in your own time, in your IDE of choice.
 
@@ -19,8 +17,8 @@ __STEPS__
 3. Read the documentation for the project and follow the instructions  
 4. Commit updated code to your repo for the project
 5. Create a pull request with your changes against our master branch
-6. Email [grant.meldrum@solarwinds.com](mailto:grant.meldrum@solarwinds.com?subject=Developer ChessProject Completed) and let him know you have created the pull request 
+6. Pass the pull request URL back to our recruitment team
 
 Timescales - as a rough guide please aim to get this back to us within 1 week of starting the project, but we do understand that life gets in the way sometimes!
 
-__Any questions please get in touch with Grant in the recruitment team - [grant.meldrum@solarwinds.com](mailto:grant.meldrum@solarwinds.com?subject=Developer ChessProject)__
+__Any questions please get in touch with Grant in the recruitment team - [grant.meldrum@n-able.com](mailto:grant.meldrum@n-able.com?subject=Developer ChessProject)__
