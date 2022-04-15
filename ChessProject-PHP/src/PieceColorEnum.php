@@ -1,6 +1,6 @@
 <?php
 
-namespace SolarWinds\Chess;
+namespace TechnicalAssessment\Chess;
 
 class PieceColorEnum
 {

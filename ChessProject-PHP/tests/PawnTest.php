@@ -1,11 +1,11 @@
 <?php
 
-namespace SolarWinds\Chess;
+namespace TechnicalAssessment\Chess;
 
-use SolarWinds\Chess\ChessBoard;
-use SolarWinds\Chess\MovementTypeEnum;
-use SolarWinds\Chess\Pawn;
-use SolarWinds\Chess\PieceColorEnum;
+use TechnicalAssessment\Chess\ChessBoard;
+use TechnicalAssessment\Chess\MovementTypeEnum;
+use TechnicalAssessment\Chess\Pawn;
+use TechnicalAssessment\Chess\PieceColorEnum;
 
 
 class PawnTest extends \PHPUnit_Framework_TestCase

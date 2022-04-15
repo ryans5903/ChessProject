@@ -1,10 +1,10 @@
 <?php
 
-namespace SolarWinds\Chess;
+namespace TechnicalAssessment\Chess;
 
-use SolarWinds\Chess\ChessBoard;
-use SolarWinds\Chess\PieceColorEnum;
-use SolarWinds\Chess\Pawn;
+use TechnicalAssessment\Chess\ChessBoard;
+use TechnicalAssessment\Chess\PieceColorEnum;
+use TechnicalAssessment\Chess\Pawn;
 
 class ChessBoardTest extends \PHPUnit_Framework_TestCase
 {
