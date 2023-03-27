@@ -78,6 +78,7 @@ namespace SolarWinds.MSP.Chess
             Assert.IsFalse(isValidPosition);
 		}
 
+
         [TestMethod]
 		public void Avoids_Duplicate_Positioning()
 		{
