@@ -52,7 +52,7 @@ namespace SolarWinds.MSP.Chess
 		}
 
 		[TestMethod]
-		public void Pawn_Move_LegalCoordinates_Forward_UpdatesCoordinates()
+		public void Pawn_Black_Move_LegalCoordinates_Forward_UpdatesCoordinates()
 		{
 			chessBoard.Add(pawn, 6, 3, PieceColor.Black);
 			pawn.Move(MovementType.Move, 6, 2);
@@ -60,5 +60,23 @@ namespace SolarWinds.MSP.Chess
             Assert.AreEqual(pawn.YCoordinate, 2);
 		}
 
-	}
+        [TestMethod]
+        public void Pawn_White_Move_LegalCoordinates_Forward_UpdatesCoordinates()
+        {
+            chessBoard.Add(pawn, 6, 3, PieceColor.White);
+            pawn.Move(MovementType.Move, 6, 4);
+            Assert.AreEqual(pawn.XCoordinate, 6);
+            Assert.AreEqual(pawn.YCoordinate, 4);
+        }
+
+        [TestMethod]
+		[ExpectedException(typeof(NotImplementedException))]
+        public void Pawn_Capture_LegalCoordinates_Forward_UpdatesCoordinates()
+        {
+            chessBoard.Add(pawn, 6, 3, PieceColor.Black);
+            pawn.Move(MovementType.Capture, 6, 2);
+			
+        }
+        		
+    }
 }
